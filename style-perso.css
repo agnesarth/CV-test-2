@@ -1,0 +1,28 @@
+.carousel-indicators li {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+}
+
+
+.carousel { 
+    height: auto;
+    width: 60%;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.bg-primary {
+    background-color: #3a5892!important;
+}
+
+.text-primary {
+    color: #3a5892!important;
+}
+
+.btn-email {
+    background-color: #3a5892; 
+    color: #FFFFFF;
+}
